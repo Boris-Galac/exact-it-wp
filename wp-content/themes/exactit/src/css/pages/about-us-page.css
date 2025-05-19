@@ -1,0 +1,14 @@
+.about-us-logo {
+  width: min(70%, 250px);
+  margin-inline: auto;
+}
+.about-us-page__wrapper {
+  display: grid;
+  gap: 64px;
+}
+.about-us__row-wrapper {
+  padding: 16px;
+  border-radius: 10px;
+  outline: 1px solid hsla(0, 0%, 100%, 0.15);
+  background-color: hsla(0, 0%, 100%, 0.04);
+}
