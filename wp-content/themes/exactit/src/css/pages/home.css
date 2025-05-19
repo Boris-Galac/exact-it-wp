@@ -11,8 +11,8 @@
   inset: 0;
   height: 100%;
   width: 100%;
-  background: url("/src/assets/images/hero-overlay-img.png") no-repeat center
-    center/cover;
+  background: url("/wp-content/themes/exactit/src/assets/images/hero-overlay-img.png")
+    no-repeat center center/cover;
   opacity: 0.5;
   z-index: -1;
 }

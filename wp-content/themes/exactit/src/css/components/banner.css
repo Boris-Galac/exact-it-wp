@@ -8,8 +8,8 @@
   content: "";
   position: absolute;
   inset: 0;
-  background: url("/src/assets/images/subpage-banner.png") no-repeat center
-    center/cover;
+  background: url("/wp-content/themes/exactit/src/assets/images/subpage-banner.png")
+    no-repeat center center/cover;
   background-position-x: right;
   z-index: -1;
   animation: banner 3s forwards;

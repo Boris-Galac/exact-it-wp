@@ -22,5 +22,6 @@
   animation: blur-overlay 10s infinite ease-in-out alternate;
 }
 .subpage {
+  min-height: 100vh;
   padding-top: 56px;
 }
